@@ -1,0 +1,20 @@
+{
+  "name": "params",
+  "version": "1.0.0",
+  "description": "Express.js, req.params not being called",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "StackOverflow",
+    "express",
+    "params"
+  ],
+  "author": "Ricardo Melo Joia <ricardo.joia@gmail.com> (http://rmjoia.eu)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
